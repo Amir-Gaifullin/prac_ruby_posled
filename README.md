@@ -1,0 +1,1 @@
+# prac_ruby_posled
